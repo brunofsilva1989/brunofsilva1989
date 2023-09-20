@@ -4,7 +4,7 @@
 
 
 - 👋 Eai pessoal, sejam bem vindos esse é meu perfil.
-- 👀 Sou um grande entusiasta de programação em geral, eu gosto de ser FullStack estou me especializando a isso.
+- 👀 Sou um grande entusiasta de programação em geral, estou atualmente, focado e estudando em ser um Desenvolvedor FullStack, estou me especializando nisso.
 - 🌱 Atualmente estou aprendendo, todo o ambiente .Net, Angular, Java Script e em bancos de dados, estou atualmente estudando SQL Server e MySQL.
 - 💞️ Procuro ser um cara que colabora com a comunidade, seja com ideias ou o bom e velho trabalho honesto e limpo.
 - 📫 Você pode entrar em contato comigo pelo meu site www.bfsilva.com.br, me mande uma mensagem e entrarei em contato com você.
