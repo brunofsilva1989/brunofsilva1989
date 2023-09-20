@@ -1,13 +1,13 @@
 <h1 align="center">** Bruno Silva **</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api@brunofsilva1989=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api@brunofsilva1989anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 👋 Hi, I’m @brunofsilva1989
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Eai pessoal, sejam bem vindos esse é meu perfil.
+- 👀 Sou um grande entusiasta de programação em geral, eu gosto de ser FullStack estou me especializando a isso.
+- 🌱 Atualmente estou aprendendo, todo o ambiente .Net, Angular, Java Script e em bancos de dados, estou atualmente estudando SQL Server e MySQL.
+- 💞️ Procuro ser um cara que colabora com a comunidade, seja com ideias ou o bom e velho trabalho honesto e limpo.
+- 📫 Você pode entrar em contato comigo pelo meu site www.bfsilva.com.br, me mande uma mensagem e entrarei em contato com você.
 
 
 <!---
