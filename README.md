@@ -1,5 +1,7 @@
 <h2 align="left">Eai pessoal 🤙! meu nome é Bruno Silva, eu sou Desenvolvedor .NET FullStack...</h2>
 
+###
+
 <p>• 🇧🇷 Brasileiro.</p>
 <p>• 👨🏻‍💻 Formado: Analise e Desenvolvimento de Sistemas.</p>
 <p>• 💼 Trabalhando: Polimold Industrial (Desenvolvedor .NET).</p>
