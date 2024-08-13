@@ -21,9 +21,7 @@
 
 ###
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-  <p><a href="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm">via GIPHY</a></p>
-</div>
+<img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" alt="Thumbs up GIF" width="300" align="right" />
 
 <h1>Tecnologias que utilizo.</h1>
 
