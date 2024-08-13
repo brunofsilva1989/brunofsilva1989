@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"  />
-<h1>Tecnologias que eu trabalho</h1>
+<h1>Technologies I work with</h1>
 
 ###
 
