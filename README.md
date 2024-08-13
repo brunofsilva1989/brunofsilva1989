@@ -1,6 +1,12 @@
 <h2 align="left">Eai pessoal 🤙! meu nome é Bruno Silva, eu sou Desenvolvedor .NET FullStack...</h2>
 
-<p>* Teste</p>
+<p>• 🇧🇷 Brasileiro.</p>
+<p>• 👨🏻‍💻 Formado: Analise e Desenvolvimento de Sistemas.</p>
+<p>• 💼 Trabalhando: Polimold Industrial (Desenvolvedor .NET).</p>
+<p>• 💪 Apaixonado por academia.</p>
+<p>• 🎙️ Cantor nas horas vagas.</p>
+
+<p>🇵🇱🔥🙏 "Fique pronto, pois o de repente de Deus, acontece em dias comuns"</p>
 
 ###
 
@@ -12,7 +18,7 @@
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"  />
-<h1>Technologies I work with</h1>
+<h1>Tecnologias que utilizo.</h1>
 
 ###
 
