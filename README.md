@@ -21,9 +21,7 @@
 
 ###
 
-<div>
-  <img align="right" height="150" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"  />
-</div>
+<img align="right" width="200" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="programming gif" />
 
 <h1>Tecnologias que utilizo.</h1>
 
@@ -59,7 +57,7 @@
   <a href="mailto:brunofsilva1989@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="[https://www.linkedin.com/in/bruno-ferreira-da-silva-10b25b147">
+  <a href="https://www.linkedin.com/in/bruno-ferreira-da-silva-10b25b147">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
