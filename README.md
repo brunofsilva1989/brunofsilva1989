@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Bruno Silva and I'm a Developer .NET FullStack...</h2>
+<h2 align="left">Eai pessoal 🤙! meu nome é Bruno Silva, eu sou Desenvolvedor .NET FullStack...</h2>
+
+<p>Teste</p>
 
 ###
 
