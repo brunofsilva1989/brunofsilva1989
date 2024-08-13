@@ -21,7 +21,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"  />
+<div>
+  <img align="right" height="150" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"  />
+</div>
+
 <h1>Tecnologias que utilizo.</h1>
 
 ###
