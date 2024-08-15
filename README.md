@@ -22,7 +22,7 @@
 
 ###
 
-<img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" alt="Thumbs up GIF" width="300" align="right" />
+<img src="https://media.giphy.com/media/3og0ITX7YrSmV8ayog/giphy.gif" alt="Anime programming GIF" width="300" align="right" />
 
 <h1>Tecnologias que utilizo.</h1>
 
