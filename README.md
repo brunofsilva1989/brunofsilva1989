@@ -22,7 +22,7 @@
 
 ###
 
-<img src="[[https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif](https://giphy.com/embed/KEYMsj2LcXzfcTP5ii)](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW81emN2eXBpMHZ0OHJiZTd1aW4yeTM5aXc5eG9keWY0M3RibXl1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEYMsj2LcXzfcTP5ii/giphy.gif)" alt="Thumbs up GIF" width="300" align="right" />
+<img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" alt="Thumbs up GIF" width="300" align="right" />
 
 <h1>Tecnologias que utilizo.</h1>
 
