@@ -5,7 +5,7 @@
 <p>• 🇧🇷 Brasileiro.</p>
 <p>• 👨🏻‍💻 Formado: Analise e Desenvolvimento de Sistemas.</p>
 <p>• 💼 Trabalhando: Polimold Industrial (Desenvolvedor .NET).</p>
-<p>• 💻 Apaixonado por programação!!!</p>p
+<p>• 💻 Apaixonado por programação!!!</p>
 <p>• 💪 Apaixonado por academia.</p>
 <p>• 🎙️ Cantor nas horas vagas.</p>
 
