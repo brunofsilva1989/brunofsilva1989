@@ -22,7 +22,7 @@
 
 ###
 
-<img src="https://media.giphy.com/media/3og0ITX7YrSmV8ayog/giphy.gif" alt="Anime programming GIF" width="300" align="right" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVuejMwNTJxMXBvZTB3OGs0czNpY3JlamNvYnVnMnBxOHRnanJkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="Anime programming GIF" width="300" align="right" />
 
 <h1>Tecnologias que utilizo.</h1>
 
