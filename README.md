@@ -7,7 +7,7 @@
 <p>• 💼 Trabalhando: Função Sistemas (Desenvolvedor .NET).</p>
 <p>• 💻 Apaixonado por programação!!!</p>
 <p>• 💪 Apaixonado por academia.</p>
-<p>• 🎙️ Cantor nas horas vagas (Arrisco me kkk).</p>
+<p>• 🎙️ Cantor nas horas vagas (Arrisco-me kkk).</p>
 
 ###
 
